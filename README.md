@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/israelo0537/DevOps%20Tutorial/_apis/build/status/izzyfezzy.pipiline?branchName=master)](https://dev.azure.com/israelo0537/DevOps%20Tutorial/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
